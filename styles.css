@@ -9,6 +9,9 @@ h1 {
 h2 {
     color: darkred;
 }
+h3 {
+    color: darkgreen;
+}
 p {
     font-size: 16px;
 }
@@ -19,4 +22,7 @@ table {
 th, td {
     padding: 8px;
     border: 1px solid black;
+}
+img {
+    border-radius: 10px;
 }
