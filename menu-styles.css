@@ -1,0 +1,23 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h2 {
+    color: #ffcc00;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 10px 0;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: #ffcc00;
+}
